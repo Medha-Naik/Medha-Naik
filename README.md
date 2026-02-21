@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Medha Naik</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
-<!--
-**Medha-Naik/Medha-Naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering student building full-stack web applications.
+
+Strong foundation in data structures and algorithms, with consistent practice in problem solving.
+
+Focused on writing clean, maintainable code and understanding systems beyond surface-level implementation.
+
+---
+
+## Tech Stack
+
+**Languages**  
+C++ · Python · JavaScript  
+
+**Frontend**  
+HTML · CSS · JavaScript  
+
+**Backend**  
+Flask · REST APIs  
+
+**Database**  
+PostgreSQL  
+
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medha-Naik&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medha-Naik&theme=github_dark" />
+</p>
