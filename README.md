@@ -24,14 +24,6 @@ Engineering student sharpening DSA and system design to prepare for high-impact 
 
 ---
 
-# 🚀 Projects:
-- Full-stack web apps with authentication & role-based access
-- RESTful backend APIs deployed to production
-- Database-driven systems with optimized queries
-- (More production-style builds coming soon 👀)
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Medha-Naik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
