@@ -23,10 +23,3 @@ Engineering student sharpening DSA and system design to prepare for high-impact 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Medha-Naik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Medha-Naik&icon=5&color=12)
